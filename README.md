@@ -1,1 +1,1 @@
-# shop.strongculture.cn
+v1.0
